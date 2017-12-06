@@ -1,0 +1,22 @@
+{
+  "name": "hear-me-type-tutorial",
+  "version": "1.0.0",
+  "description": "Play sounds with your keyboard!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Sai Sasank",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
